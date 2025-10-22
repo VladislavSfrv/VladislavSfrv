@@ -21,7 +21,8 @@
 ---
 
 ### 🧰 Tech Stack
-<img src="./assets/js.svg" width="50"/>
+<div align="center">
+<img src="./assets/js.svg" width="50"/>  
 <img src="./assets/typescript.svg" width="50"/>
 <img src="./assets/git.svg" width="50"/>
 <img src="./assets/react.svg" width="50"/>
@@ -30,8 +31,13 @@
 <img src="./assets/vue.svg" width="50"/>
 <img src="./assets/html.svg" width="50"/>
 <img src="./assets/css.svg" width="50"/>
+<img src="./assets/tailwind.svg" width="50"/>
+<img src="./assets/bootstrap.svg" width="50"/>
+</div>
 
 ---
+
+### Activiti
 
 ![VladislavSfrv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavSfrv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ### 🥋 Codewars
