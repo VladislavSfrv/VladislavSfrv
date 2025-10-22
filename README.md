@@ -14,3 +14,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+
+---
+
+![VladislavSfrv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavSfrv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### 🥋 Codewars
+![Codewars](https://www.codewars.com/users/VladislavSfrv/badges/large)
