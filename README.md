@@ -4,7 +4,7 @@
     <img src="./assets/Gif1.gif" width="200"/>
   </span>
   <span align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Hello,+my+names+Vladislav!;I'm+Frontend+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Hello,+my+name's+Vladislav!;I'm+Frontend+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
   </span>
   <span align="right">
     <img src="./assets/Gif2.gif" height="230" width="200"/>
