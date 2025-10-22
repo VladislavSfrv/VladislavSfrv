@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Vladislav
 
-<!--
-**VladislavSfrv/VladislavSfrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | JavaScript | React | TypeScript  
 
-Here are some ideas to get you started:
+🌱 Currently learning: Next.js & Node.js  
+📫 Reach me: [Telegram](https://t.me/qqarkis) | [Email](mailto:vladislavsafarov04@mail.ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+![JS](https://img.shields.io/badge/-JavaScript-323330?logo=javascript)
+![TS](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
