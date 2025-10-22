@@ -1,22 +1,22 @@
 ---
-<div style="display:flex;">
+<div>
   <span align="left">
     <img src="./assets/Gif1.gif" height="300"/>
   </span>
   <span align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Hello,+my+names+Vladislav!;I'm+Frontend+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
   </span>
-  <span align="left">
-    <img src="./assets/Gif1.gif" height="300"/>
+  <span align="right">
+    <img src="./assets/Gif2.gif" height="300" width="250"/>
   </span>
 </div>
 
 ---
 
-💻 Frontend Developer | JavaScript | React | TypeScript  
+<h3>💻 Frontend Developer | JavaScript | React | TypeScript</h3>  
 
-🌱 Currently learning: Next.js & Node.js  
-📫 Reach me: [Telegram](https://t.me/qqarkis) | [Email](mailto:vladislavsafarov04@mail.ru)
+<h3>🌱 Currently learning: Next.js & Node.js </h3>
+<h3>📫 Reach me: [Telegram](https://t.me/qqarkis) | [Email](mailto:vladislavsafarov04@mail.ru)</h3>
 
 ---
 
